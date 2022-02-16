@@ -21,7 +21,7 @@
 
 
 <h1>IN_FO Of Tool</h1>
-<img align="left" width="400" src="Screenshot (1).png">
+<img align="left" width="400" src="Screenshot (1).png"><br>
 <ol>
   <li>IP</li>
   <li>Hostname</li>
