@@ -21,11 +21,11 @@
 
 <h1>IN_FO Of Tool</h1>
 <br>
-<img width="400" src="Screenshot (1).png"><br>
+<img width="%80" src="Screenshot (4).png"><br>
 <br>
 
 <br>
-<img width="400" src="Screenshot (2).png"><br>
+<img width="%80" src="Screenshot (3).png"><br>
 <br>
 
 
@@ -63,6 +63,7 @@
     <li>cd OSIRIS</li>
     <li>python .\NetScanner.py</li>
 </ul>
+<br>
 <br>
 
 
