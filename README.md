@@ -20,9 +20,7 @@
 
 
 
-<h1>IN_FO Of Tool</h1>
-
-
+<h3>IMG</h3>
 <br>
 <img align="left" alt="Coding" width="600" src="Screenshot (1).png"><br>
 <br>
@@ -30,6 +28,14 @@
 <br>
 <img align="left" alt="Coding" width="600" src="Screenshot (2).png"><br>
 <br>
+
+
+
+
+
+<h1>IN_FO Of Tool</h1>
+
+
 
 
 
