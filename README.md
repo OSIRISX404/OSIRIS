@@ -69,8 +69,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyan&show_icons=true&locale=en&layout=compact" alt="adithyan" /></p><br>
+<p><img align="cender" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyan&show_icons=true&locale=en&layout=compact" alt="adithyan" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyan&show_icons=true&locale=en" alt="adithyan" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adithyan&show_icons=true&locale=en" alt="adithyan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyan&" alt="adithyan" /></p>
