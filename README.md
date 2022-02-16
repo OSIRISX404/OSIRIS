@@ -25,7 +25,7 @@
 <br>
 
 <br>
-<img align="left" alt="Coding" width="300" src="Screenshot (2).png"><br>
+<img align="right" alt="Coding" width="300" src="Screenshot (2).png"><br>
 <br>
 
 
