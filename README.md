@@ -56,7 +56,7 @@
     <li>python .\NetScanner.py</li>
 </ul>
 
-<h3>INSTALLATION [ KALI ]</h3>
+<h3>INSTALLATION [ Windows ]</h3>
 <ul>
     <li>pip install python3</li>
     <li>pip install requests</li>
