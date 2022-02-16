@@ -23,9 +23,9 @@
 <h1>IN_FO Of Tool</h1>
 
 
-
-<img align="left" alt="Coding" width="400" src="Screenshot (1).png"><br>
-
+<br>
+<img align="left" alt="Coding" width="600" src="Screenshot (1).png"><br>
+<br>
 
 
 
