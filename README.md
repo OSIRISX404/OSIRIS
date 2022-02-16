@@ -25,19 +25,6 @@
 
 
 
-<ol>
-  <li>IP</li>
-  <li>Hostname</li>
-  <li>Location</li>
-  <li>city</li>
-  <li>Region</li>
-  <li>Country</li>
-  <li>Posatl</li>
-  <li>Org</li>
-  <li>Data</li>
-  <li>Thimezone</li>
-  <li>Readme</li>
-</ol>
 
 <h3>INSTALLATION [ TERMUX APP --ANDROID ]</h3>
 <ul>
