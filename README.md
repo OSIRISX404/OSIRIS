@@ -34,9 +34,9 @@
 <h3>INSTALLATION [ TERMUX APP --ANDROID ]</h3>
 <ul>
     <li>pkg install python3</li>
-    <li>pkg install requests</li>
-    <li>pkg install json</li>
-    <li>pkg install pyttsx3</li>
+    <li>pip install requests</li>
+    <li>pip install json</li>
+    <li>pip install pyttsx3</li>
     <li>git clone https://github.com/OSIRISX404/OSIRIS.git</li>
     <li>cd OSIRIS</li>
     <li>python .\NetScanner.py</li>
@@ -45,9 +45,9 @@
 <h3>INSTALLATION [ KALI ]</h3>
 <ul>
     <li>apt get install python3</li>
-    <li>apt get install requests</li>
-    <li>apt get install json</li>
-    <li>apt get install pyttsx3</li>
+    <li>pip install requests</li>
+    <li>pip install json</li>
+    <li>pip install pyttsx3</li>
     <li>git clone https://github.com/OSIRISX404/OSIRIS.git</li>
     <li>cd OSIRIS</li>
     <li>python .\NetScanner.py</li>
